@@ -5,7 +5,7 @@ import {
 	searchMovie,
 	searchPerson,
 	searchTv,
-} from "../controllers/search.controller.js";
+} from "../controllers/search.Controller.js";
 
 const router = express.Router();
 
